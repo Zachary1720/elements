@@ -23,7 +23,7 @@
 		<rules>
 			<grant type="Grants" id="ID_INTERNAL_GRANTS_TIEFLING_SUBRACE" />
 			<stat name="intelligence" value="1"/>
-			<stat name="dexterity" value="2"/>
+			<stat name="charisma" value="2"/>
 			<select type="Racial Trait" name="Feral Trait" supports="Feral Tiefling, Feral Trait" />
 		</rules>
 	</element>
